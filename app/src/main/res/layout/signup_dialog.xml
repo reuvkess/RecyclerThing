@@ -14,7 +14,7 @@
         android:inputType="text"
         android:text="Username"
         app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="90dp" />
+        tools:layout_editor_absoluteX="89dp" />
 
     <EditText
         android:id="@+id/editTextText2"
